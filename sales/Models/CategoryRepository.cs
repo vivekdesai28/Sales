@@ -28,8 +28,10 @@ namespace sales.Models
                 _category.Add(cat);
                 return true;
             }
+            else
+            {
                 return false;
-            
+            }
         }
 
         IEnumerable<Category> ICategory.GetAllCategory()

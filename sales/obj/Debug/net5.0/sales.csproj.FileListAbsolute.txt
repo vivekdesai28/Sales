@@ -38,3 +38,4 @@ D:\CORE practice\sales\sales\obj\Debug\net5.0\ref\sales.dll
 D:\CORE practice\sales\sales\obj\Debug\net5.0\sales.pdb
 D:\CORE practice\sales\sales\obj\Debug\net5.0\sales.genruntimeconfig.cache
 D:\CORE practice\sales\sales\obj\Debug\net5.0\sales.csproj.CopyComplete
+D:\CORE practice\sales\sales\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs

@@ -22,7 +22,7 @@ namespace sales.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View(_categoryRepository.GetAllCategory());
         }
     }
 }
